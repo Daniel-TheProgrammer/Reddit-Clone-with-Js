@@ -1,3 +1,4 @@
+### Daniel theProgrammer,The features can be seen below!
 ### Features:
 * Frontpage
 * Subreddits
