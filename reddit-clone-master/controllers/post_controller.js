@@ -1,4 +1,3 @@
-
 let Post = require("../models/post");
 let Profile = require("../models/profile");
 let PostState = require("../models/postState")
